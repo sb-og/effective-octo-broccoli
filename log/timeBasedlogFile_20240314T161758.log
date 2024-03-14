@@ -1,0 +1,10 @@
+6274 [main] INFO  Test.FillFormBasicTest - Webdriver started
+6806 [main] INFO  Test.FillFormBasicTest - Opened contact form
+6906 [main] INFO  Test.FillFormBasicTest - Filled email data
+7026 [main] INFO  Test.FillFormBasicTest - Filled order ID
+7183 [main] INFO  Test.FillFormBasicTest - Selected Webmaster
+7267 [main] INFO  Test.FillFormBasicTest - Entered message content
+7317 [main] INFO  Test.FillFormBasicTest - File attatched
+14710 [main] INFO  Test.FillFormBasicTest - Message Submitted
+14751 [main] INFO  Test.FillFormBasicTest - feedback message read
+14864 [main] INFO  Test.FillFormBasicTest - Assertion True

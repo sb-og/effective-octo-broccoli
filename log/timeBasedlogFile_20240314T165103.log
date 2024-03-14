@@ -1,0 +1,14 @@
+500 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+1024 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution firefox=115 in cache (valid until 17:49:44 14/03/2024 CET)
+1026 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution firefox115=0.34.0 in cache (valid until 16:49:44 15/03/2024 CET)
+1028 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.34.0 (resolved driver for Firefox 115)
+1060 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Driver geckodriver 0.34.0 found in cache
+1061 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\szymon.bogus\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe
+5001 [main] INFO  Base.BaseTest - Webdriver started
+5506 [main] INFO  Base.BaseTest - Opened contact form
+5573 [main] INFO  Base.BaseTest - Filled email data
+5596 [main] INFO  Base.BaseTest - Filled order ID
+5889 [main] INFO  Base.BaseTest - Selected Webmaster
+5909 [main] INFO  Base.BaseTest - Entered message content
+6431 [main] INFO  Base.BaseTest - File attatched
+11660 [main] INFO  Base.BaseTest - Message Submitted

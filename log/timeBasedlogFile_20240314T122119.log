@@ -1,0 +1,2 @@
+996 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using msedgedriver 122.0.2365.80 (resolved driver for Edge 122)
+1044 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\szymon.bogus\.cache\selenium\msedgedriver\win64\122.0.2365.80\msedgedriver.exe

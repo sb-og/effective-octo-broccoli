@@ -1,0 +1,6 @@
+459 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+979 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution firefox=115 in cache (valid until 17:49:44 14/03/2024 CET)
+982 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution firefox115=0.34.0 in cache (valid until 16:49:44 15/03/2024 CET)
+983 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using geckodriver 0.34.0 (resolved driver for Firefox 115)
+1016 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Driver geckodriver 0.34.0 found in cache
+1017 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.gecko.driver as C:\Users\szymon.bogus\.cache\selenium\geckodriver\win64\0.34.0\geckodriver.exe

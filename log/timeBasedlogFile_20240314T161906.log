@@ -1,0 +1,16 @@
+557 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+1219 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution edge=122 in cache (valid until 16:57:53 14/03/2024 CET)
+1222 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution edge122=122.0.2365.80 in cache (valid until 11:42:51 15/03/2024 CET)
+1223 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using msedgedriver 122.0.2365.80 (resolved driver for Edge 122)
+1260 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Driver msedgedriver 122.0.2365.80 found in cache
+1262 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\szymon.bogus\.cache\selenium\msedgedriver\win64\122.0.2365.80\msedgedriver.exe
+6459 [main] INFO  Test.FillFormBasicTest - Webdriver started
+6883 [main] INFO  Test.FillFormBasicTest - Opened contact form
+7003 [main] INFO  Test.FillFormBasicTest - Filled email data
+7108 [main] INFO  Test.FillFormBasicTest - Filled order ID
+7252 [main] INFO  Test.FillFormBasicTest - Selected Webmaster
+7352 [main] INFO  Test.FillFormBasicTest - Entered message content
+7403 [main] INFO  Test.FillFormBasicTest - File attatched
+13965 [main] INFO  Test.FillFormBasicTest - Message Submitted
+14015 [main] INFO  Test.FillFormBasicTest - Feedback message read
+14145 [main] INFO  Test.FillFormBasicTest - Assertion completed

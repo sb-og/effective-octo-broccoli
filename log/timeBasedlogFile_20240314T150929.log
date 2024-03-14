@@ -1,0 +1,8 @@
+454 [main] INFO  Test.FillFormBasicTest - Test Start
+482 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Using WebDriverManager 5.7.0
+1035 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution edge=122 in cache (valid until 15:55:36 14/03/2024 CET)
+1037 [main] DEBUG i.g.b.wdm.cache.ResolutionCache - Resolution edge122=122.0.2365.80 in cache (valid until 11:42:51 15/03/2024 CET)
+1038 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Using msedgedriver 122.0.2365.80 (resolved driver for Edge 122)
+1073 [main] DEBUG i.g.bonigarcia.wdm.WebDriverManager - Driver msedgedriver 122.0.2365.80 found in cache
+1075 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager - Exporting webdriver.edge.driver as C:\Users\szymon.bogus\.cache\selenium\msedgedriver\win64\122.0.2365.80\msedgedriver.exe
+6401 [main] INFO  Test.FillFormBasicTest - Test stop
