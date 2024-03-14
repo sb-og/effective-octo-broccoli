@@ -1,11 +1,10 @@
 package Test;
+
 import org.junit.jupiter.api.Test;
 
-public class FillFormBasicTest
-{
+public class FillFormBasicTest {
     @Test
-    void FillFormBasicScenario()
-    {
+    void FillFormBasicScenario() {
         System.out.println("selenium");
     }
 }
